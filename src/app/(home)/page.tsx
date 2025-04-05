@@ -1,10 +1,10 @@
 "use client";
 
-import { Header } from "@/components/layout/header";
 import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
 import Image from "next/image";
 import { ArrowRight, MessageSquare, Rocket, ChartSpline } from "lucide-react";
+import { Header } from "@/components/layout/header";
 
 export default function Home() {
   return (
