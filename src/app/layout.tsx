@@ -34,7 +34,7 @@ export default function RootLayout({ children }: PropsWithChildren) {
       <body className={cn(raleway.variable, poppins.variable)}>
         <ThemeProvider
           attribute="class"
-          defaultTheme="system"
+          defaultTheme="dark"
           enableSystem
           disableTransitionOnChange
         >
