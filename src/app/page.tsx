@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
 import Image from "next/image";
 import { ArrowRight, MessageSquare, Rocket, ChartSpline } from "lucide-react";
-import { Header } from "@/components/layout/header";
+import { Header } from "@/components/layout/Header";
 
 export default function Home() {
   return (
